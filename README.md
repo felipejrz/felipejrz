@@ -17,17 +17,27 @@ Soy Ingeniero en Computación especializado en desarrollo Frontend, con un buen 
 
 ## Mis Habilidades
 
+Aquí tienes la sección de habilidades actualizada con las tecnologías adicionales que mencionaste:
+
+---
+
+## Mis Habilidades
+
 <h4>Lenguajes</h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </span>
 
 <h4>Frameworks</h4>
 <span>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Bootstrap-563D7C?style=for-the-badge&logo=react-bootstrap&logoColor=white">
 </span>
 
 <h4>Bases de datos</h4>
@@ -44,6 +54,7 @@ Soy Ingeniero en Computación especializado en desarrollo Frontend, con un buen 
 <span>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
 <hr>
@@ -57,10 +68,3 @@ Soy Ingeniero en Computación especializado en desarrollo Frontend, con un buen 
 <br>
 </p>
 
-------
-
-Última edición: [Fecha]
-
----
-
-Puedes ajustar la información de los enlaces y cualquier detalle que quieras cambiar. ¡Espero que te sea útil!
