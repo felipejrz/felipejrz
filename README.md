@@ -4,11 +4,11 @@
 
 Soy Ingeniero en Computación especializado en desarrollo Frontend, con un buen manejo de Backend. Utilizo tecnologías como HTML, CSS, React, Vite y Node.js para crear experiencias web fluidas y modernas. Actualmente, estoy trabajando en proyectos propios para fortalecer mi portafolio y seguir perfeccionando mis habilidades.
 
-- ⚡ **Dato curioso:** Creo firmemente en el poder de la **IA** para transformar el futuro. También, la música es mi gran compañera mientras escribo líneas de código.
+- ⚡ **Dato curioso:** Creo que la **IA** puede transformar el futuro. También, la música es mi gran compañera mientras escribo líneas de código.
 - 🔭 Actualmente, estoy aprendiendo y experimentando con:
   - Desarrollo avanzado de aplicaciones web
   - Integración de IA en aplicaciones web
-- :bulb: Me apasiona todo lo relacionado con la **Inteligencia Artificial** y cómo podemos integrarla en nuestras vidas diarias.
+- :bulb: Me apasiona todo lo relacionado con el  **Desarrollo Web** y la **Inteligencia Artificial** y cómo podemos integrarla en nuestras vidas diarias.
 - 💬 Hablemos sobre Tecnología, Música, o cualquier tema que te apasione.
 
 ## Mis Habilidades
